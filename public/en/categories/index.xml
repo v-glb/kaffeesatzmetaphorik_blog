@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Muay Thai Blog</title>
+    <link>http://muay-thai-meditationen.net/en/categories/</link>
+    <description>Recent content in Categories on Muay Thai Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <atom:link href="http://muay-thai-meditationen.net/en/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

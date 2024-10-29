@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Muay Thai Blog</title>
+    <link>http://muay-thai-meditationen.net/page/</link>
+    <description>Recent content in Pages on Muay Thai Blog</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <atom:link href="http://muay-thai-meditationen.net/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://muay-thai-meditationen.net/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://muay-thai-meditationen.net/page/contact/</guid>
+      <description>&lt;p&gt;Wenn du mir eine Nachricht schreiben willst, kannst du das gerne per E-Mail tun: &lt;strong&gt;v[dot]networks[at]posteo[dot]de&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Alternativ findest du unten im Footer auch ein entsprechendes Icon mit meiner E-Mail Adresse sowie Social Media Profile.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über mich</title>
+      <link>http://muay-thai-meditationen.net/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://muay-thai-meditationen.net/page/about/</guid>
+      <description>&lt;p&gt;Willkommen auf meinem Blog! Hier schreibe ich über meine Erfahrungen im Muay Thai Training. Dazu gehören Trainingserlebnisse, Erkenntnisse, Techniken, Tipps &amp;amp; Tricks und vieles mehr. Alle Angaben sind natürlich ohne Gewähr und beruhen lediglich auf persönlichen Erfahrungen. ;)&lt;/p&gt;&#xA;&lt;p&gt;Ich selbst bin mit etwas mehr als zwei Jahren Erfahrung noch nicht allzu lang dabei - trotzdem oder vielleicht gerade deshalb erfüllt es mich in so einem Maße, dass ich beschlossen habe, zwei meiner Hobbys miteinander zu verbinden: Muay Thai und Schreiben. Das Ergebnis ist der Blog, auf dem du jetzt diese Zeilen liest.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
