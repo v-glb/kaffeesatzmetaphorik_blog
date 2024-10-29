@@ -1,4 +1,4 @@
-baseurl = "http://muay-thai-meditationen.net/"
+baseurl = "https://muay-thai-meditationen.net/"
 languageCode = 'de-de'
 DefaultContentLanguage = "de"
 title = "Muay Thai Blog"
