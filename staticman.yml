@@ -1,5 +1,6 @@
 comments:
   allowedFields: ["name", "email", "comment"]
+  allowedOrigins: ["muay-thai-meditationen.net"]
   branch            : "master"
   commitMessage     : "New comment in {options.slug}"
   path: "data/comments/{options.slug}"
