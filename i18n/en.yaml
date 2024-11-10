@@ -55,7 +55,7 @@
 - id: moreComment
   translation: "comments"
 - id: useMarkdown
-  translation: "Comment ..."
+  translation: "You can use Markdown syntax"
 - id: yourName
   translation: "Your name"
 - id: yourEmail

@@ -85,6 +85,3 @@ pygmentsCodefencesGuessSyntax = true
   email = "v.networks@posteo.de"
   instagram = "v__glb"
   github = "v-glb"
-
-[Params.staticman]
-  api = "https://dev.staticman.net/v3/entry/github/v-glb/muay_thai_blog/master/comments"
