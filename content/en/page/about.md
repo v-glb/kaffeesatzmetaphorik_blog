@@ -1,22 +1,20 @@
 ---
 title: About me
-subtitle: This is what I do
+subtitle: What I write about
 comments: false
 bigimg: [{src: "/img/bg-about.jpg"}]
 ---
 
-Welcome to my blog! Here, I write about my experiences in Muay Thai training. This includes training experiences, insights, techniques, tips & tricks, and much more. All information is, of course, provided without guarantee and is based solely on personal experiences. ;)
+Welcome to my blog! Here you will find personal reflections, poems, prose, and insights into my daily life. This blog serves as a space to capture thoughts and experiences that I encounter on my journey – from small steps to big realizations. All writings are based on my personal experiences and thoughts, without claiming to provide universal truths.
 
-I have just over two years of experience, so I’m still relatively new to it—but perhaps because of that, it fulfills me to such an extent that I decided to combine two of my hobbies: Muay Thai and writing. The result is the blog you’re currently reading.
+My journey with this blog, which once started with Muay Thai, has since evolved. Today, writing takes center stage, whether it's about everyday life or deeper topics that move me. It's a blend of two passions: reflection and putting into words what truly matters in life. Thank you for reading these lines and being a part of this journey.
 
-## Legal
+## Legal Notice
 
-All images used on this blog are either copyright-free and thus available for personal use, or they come directly from me. The only exception is the favicon: [Boxer](https://icons8.com/icon/h9YqeBILONqD/boxer) icon by [Icons8](https://icons8.com)
+All images used on this blog are either copyright-free from [Pixabay](https://pixabay.com), making them free to use, or are directly created by me. The same applies to the favicon: [Pen](https://icons8.com/icon/4290/pen) icon by [Icons8](https://icons8.com).
 
-Additionally, no cookies are set here, and no tracking technologies such as Google Analytics are used.
+Additionally, no cookies are set on this site, nor are any tracking technologies like Google Analytics used.
 
 ## RSS Feed
 
-If you want to be automatically notified about new posts, you can subscribe to the RSS feed of this blog via /index.xml. The complete link to the feed is provided as an icon in the footer on the homepage. Simply copy this link and paste it into any RSS reader app.
-
-I hope to provide some interesting insights here and perhaps share a few helpful tips, especially for other beginners out there. Enjoy and Chok Dee!
+If you'd like to be notified automatically about new posts, you can subscribe to the RSS feed of this blog at /index.xml. The full link to the feed is available as an icon in the footer on the homepage. Simply copy this link and paste it into any RSS reader app.

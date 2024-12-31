@@ -1,7 +1,7 @@
-baseurl = "https://muay-thai-meditationen.net/"
+baseurl = "https://kaffeesatzmetaphorik.net/"
 languageCode = 'de-de'
 DefaultContentLanguage = "de"
-title = "Muay Thai Blog"
+title = "Kaffeesatzmetaphorik"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
@@ -47,8 +47,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   selfHosted = true
-  homeTitle = "Muay Thai Blog"
-  subtitle = "Meditationen"
+  homeTitle = "Kaffeesatzmetaphorik"
+  subtitle = "Gedanken & Reflexionen"
   mainSections = ["post","posts"]
 #  logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
