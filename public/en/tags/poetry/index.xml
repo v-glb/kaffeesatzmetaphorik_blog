@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry on Kaffeesatzmetaphorik</title>
+    <link>http://localhost:1313/en/tags/poetry/</link>
+    <description>Recent content in Poetry on Kaffeesatzmetaphorik</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Beginning</title>
+      <link>http://localhost:1313/en/post/2024-12-31-intro/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/en/post/2024-12-31-intro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The last page in the manuscript&lt;br&gt;&#xA;Written&lt;br&gt;&#xA;As is the year.&lt;/p&gt;&#xA;&lt;p&gt;Farewell&lt;br&gt;&#xA;And with it&lt;br&gt;&#xA;A new beginning.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Happy New Year! 🎉&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

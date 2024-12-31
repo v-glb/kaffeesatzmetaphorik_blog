@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kaffeesatzmetaphorik</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Kaffeesatzmetaphorik</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>&lt;p&gt;Wenn du mir eine Nachricht schreiben willst, kannst du das gerne per E-Mail tun: &lt;strong&gt;v[dot]networks[at]posteo[dot]de&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Alternativ findest du unten im Footer auch ein entsprechendes Icon mit meiner E-Mail Adresse sowie Social Media Profile.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über mich</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Willkommen auf meinem Blog! Hier findest du persönliche Reflexionen, Gedichte, Prosa und Einblicke in meinen Alltag. Diese Seite dient als Raum, um Gedanken und Erfahrungen festzuhalten, die mir auf meinem Weg begegnen – von kleinen Schritten bis zu großen Erkenntnissen. Alle Texte beruhen auf meinen persönlichen Erlebnissen und Gedanken, ohne den Anspruch, universelle Wahrheiten zu liefern.&lt;/p&gt;&#xA;&lt;p&gt;Meine Reise mit diesem Blog, die einst mit Muay Thai begann, hat sich inzwischen erweitert. Heute steht das Schreiben im Mittelpunkt, sei es über den Alltag oder tiefere Themen, die mich bewegen. Es ist eine Verbindung zweier Leidenschaften: Nachdenken und das Niederschreiben dessen, was im Leben wirklich zählt. Danke, dass du diese Zeilen liest und ein Teil dieses Weges bist.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

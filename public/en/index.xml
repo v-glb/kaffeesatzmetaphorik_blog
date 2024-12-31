@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaffeesatzmetaphorik</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Kaffeesatzmetaphorik</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Beginning</title>
+      <link>http://localhost:1313/en/post/2024-12-31-intro/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/en/post/2024-12-31-intro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;The last page in the manuscript&lt;br&gt;&#xA;Written&lt;br&gt;&#xA;As is the year.&lt;/p&gt;&#xA;&lt;p&gt;Farewell&lt;br&gt;&#xA;And with it&lt;br&gt;&#xA;A new beginning.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Happy New Year! 🎉&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/en/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/en/page/about/</guid>
+      <description>&lt;p&gt;Welcome to my blog! Here you will find personal reflections, poems, prose, and insights into my daily life. This blog serves as a space to capture thoughts and experiences that I encounter on my journey – from small steps to big realizations. All writings are based on my personal experiences and thoughts, without claiming to provide universal truths.&lt;/p&gt;&#xA;&lt;p&gt;My journey with this blog, which once started with Muay Thai, has since evolved. Today, writing takes center stage, whether it&amp;rsquo;s about everyday life or deeper topics that move me. It&amp;rsquo;s a blend of two passions: reflection and putting into words what truly matters in life. Thank you for reading these lines and being a part of this journey.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/en/page/contact/</guid>
+      <description>&lt;p&gt;If you’d like to send me a message, feel free to do so via email: &lt;strong&gt;v[dot]networks[at]posteo[dot]de&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Alternatively, you can find an icon with my email address and social media profiles in the footer below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kaffeesatzmetaphorik</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Kaffeesatzmetaphorik</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <managingEditor>v.networks@posteo.de (V)</managingEditor>
+    <webMaster>v.networks@posteo.de (V)</webMaster>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Beginning</title>
+      <link>http://localhost:1313/post/2024-12-31-intro/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate><author>v.networks@posteo.de (V)</author>
+      <guid>http://localhost:1313/post/2024-12-31-intro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Die letzte Seite im Manuskript&lt;br&gt;&#xA;Beschrieben&lt;br&gt;&#xA;So auch das Jahr.&lt;/p&gt;&#xA;&lt;p&gt;Abschied&lt;br&gt;&#xA;Und mit ihm&lt;br&gt;&#xA;Ein Neubeginn.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Frohes neues Jahr! 🎉&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
